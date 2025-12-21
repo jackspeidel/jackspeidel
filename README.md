@@ -22,7 +22,3 @@ I'm always up for a conversation about any of these (or tech, of course). If we 
 ## Let's Connect
 
 Feel free to browse my repositories or drop me a message. I'm always interested in connecting with fellow developers and enthusiasts.
-
----
-
-*Always learning, always building.*
