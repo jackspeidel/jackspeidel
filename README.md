@@ -1,26 +1,28 @@
-# Hi! 👋
+# Hey there! 👋
 
-## 🙋‍♂️ About Me 
-👨‍💻 I'm Jack Speidel, a **full stack** software developer currently pursuing a career in the industry. 
+I'm Jack Speidel — a full-stack software developer with an insatiable curiosity for building things on the web.
 
-💻 I have a thirst for knowledge that is never satisfied. After learning the basics of web development independently, I enrolled in BrainStation's bootcamp to deepen my experience and understanding of some of the most widely-used technologies in the industry, namely **React**, **Node.js**, **Express**, **Sass**, **Axios**, **Knex**, & **MySQL**. After taking this first step, I am now seeking out work while developing my knowledge of **Next.js**, **Rails**, **Angular** & **Django**.
+## What I Do
 
-👨‍💼 My previous career in the business community has prepared me to deal with the ups and downs of programming, how to understand client needs and, perhaps most importantly, the value of an open stream of communication between business and the client.
+I'm actively pursuing opportunities in software development, combining self-taught technical skills with real-world problem-solving experience. My journey into tech wasn't linear, and I think that's made me a better developer.
 
-🌴 Outside of tech, I have a great number of interests including 🎸 music, 🎣 fishing, 📚 literature, 🎨 art and 
-🍛 cuisine. I love to chat about any of these topics as much as I love chatting about tech! Should anyone share these interests, please feel free to connect with me!
+Coming from a background in business, I've learned that great software isn't just about clean code — it's about understanding what people actually need and maintaining clear communication throughout the process. Those client-facing skills have proven invaluable when translating requirements into solutions.
 
-<!--
-**JackSpeidel/jackspeidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Beyond the Terminal
 
-Here are some ideas to get you started:
+When I'm not coding, you'll find me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎸 Playing or listening to music
+- 📚 Deep in a good book
+- 🧑‍🧑‍🧒‍🧒 Hanging out with my family
+- 🍛 Experimenting with new recipes
+
+I'm always up for a conversation about any of these (or tech, of course). If we share any interests, don't hesitate to reach out!
+
+## Let's Connect
+
+Feel free to browse my repositories or drop me a message. I'm always interested in connecting with fellow developers and enthusiasts.
+
+---
+
+*Always learning, always building.*
